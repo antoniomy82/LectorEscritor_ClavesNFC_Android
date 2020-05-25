@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LectorClavesNFC</string>
+    <string name="escribir_tag">Escribir_Tag</string>
+    <string name="LECTOR_CLAVES_NFC">LECTOR CLAVES NFC</string>
+    <string name="lector_claves_nfc">LECTOR CLAVES NFC</string>
+    <string name="grabar_clave_a_tag">GRABAR CLAVE A TAG</string>
+    <string name="mostar_contenido_tag">MOSTAR CONTENIDO TAG</string>
+    <string name="pase_un_tag_por_su_antena_nfc">PASE UN TAG POR SU ANTENA NFC</string>
+    <string name="contenido_del_tag">Contenido del TAG</string>
+    <string name="limpiar_pantalla_buffer">LIMPIAR PANTALLA-BUFFER</string>
+    <string name="antonio_j_morales_el_colega_inform_tico">ANTONIO J MORALES_ El colega informático</string>
+</resources>
