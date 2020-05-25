@@ -10,7 +10,7 @@ Imagen del interfaz de la aplicación
 </p>
 
 Vídeo dónde explico el funcionamiento del mismo
-<https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221NhDCIKfXvIw8NFldp-a0FXitAAmT1ACC%22%5D,%22action%22:%22open%22,%22userId%22:%22109154506852671794614%22%7D>
+<https://drive.google.com/file/d/1NhDCIKfXvIw8NFldp-a0FXitAAmT1ACC/view?usp=sharing>
 
 
 Espero que os guste o bien os sirva de ayuda, un saludo!!
