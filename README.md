@@ -6,12 +6,12 @@ Esta aplicación destaca por su sencillez y simplicidad, además fue la primera 
 
 <p align="center">
 Imagen del interfaz de la aplicación
-<img src="https://raw.githubusercontent.com/antoniomy82/Intents_tutorial_Youtube/master/capturas/activity2.PNG">
+<img src="https://raw.githubusercontent.com/antoniomy82/LectorEscritor_ClavesNFC_Android/master/capturas/00.PNG">
 </p>
 
 <p align="center">
 Vídeo dónde explico el funcionamiento del mismo
-<img src="https://raw.githubusercontent.com/antoniomy82/Intents_tutorial_Youtube/master/capturas/activity2.PNG">
+<img src="https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221NhDCIKfXvIw8NFldp-a0FXitAAmT1ACC%22%5D,%22action%22:%22open%22,%22userId%22:%22109154506852671794614%22%7D">
 </p>
 
 
