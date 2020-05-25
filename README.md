@@ -9,10 +9,8 @@ Imagen del interfaz de la aplicación
 <img src="https://raw.githubusercontent.com/antoniomy82/LectorEscritor_ClavesNFC_Android/master/capturas/00.PNG">
 </p>
 
-<p align="center">
 Vídeo dónde explico el funcionamiento del mismo
 <https://drive.google.com/drive/folders/1HRTZVo8NSyINVRrmeHBzBu0tD0Z949e_>
-</p>
 
 
 Espero que os guste o bien os sirva de ayuda, un saludo!!
